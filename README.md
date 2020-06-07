@@ -1,4 +1,4 @@
-# vlan-dat
+# vlandat
 
 Parser for Cisco IOS VLAN database files.
 
